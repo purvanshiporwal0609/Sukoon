@@ -202,6 +202,6 @@ The frontend is deployed on **Vercel** and the backend can be deployed on platfo
 
 <div align="center">
 
-Made with 💜 by [Radhe Tare](https://github.com/Radhetare)
+Made with 💜 by [Purvanshi Porwal](https://github.com/purvanshiporwal0609)
 
 </div>
